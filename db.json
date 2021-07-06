@@ -1,0 +1,72 @@
+{
+	"categories": ["Все", "Мясные", "Вегетарианская", "Гриль", "Острые", "Закрытые"],
+
+    "sort": ["популярности", "цене", "алфавиту"],
+
+    "pizza": [
+        {
+            "src": "https://dodopizza-a.akamaihd.net/static/Img/Products/a6492db07919436a955adf66395eb377_292x292.jpeg",
+            "title": "Paperoni",
+            "pizzaBase": ["thick", "thin"],
+            "diameter": ["26 cm", "30 cm", "40 cm"],
+            "price": 39,
+            "category": [1, 5]
+        },
+        {
+            "src": "https://dodopizza-a.akamaihd.net/static/Img/Products/2ea16022779e4e46acd70a19f397ba8f_292x292.jpeg",
+            "title": "Cheese",
+            "pizzaBase": ["thick", "thin"],
+            "diameter": ["26 cm", "30 cm", "40 cm"],
+            "price": 30,
+            "category": [1, 2]
+        },
+        {
+            "src": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+            "title": "CheeseBurger-pizza",
+            "pizzaBase": ["thick", "thin"],
+            "diameter": ["26 cm", "30 cm", "40 cm"],
+            "price": 29,
+            "category": [1, 3, 2]
+        },
+        {
+            "src": "https://dodopizza-a.akamaihd.net/static/Img/Products/e32461512b4a4abe8dbd13bcaa4f1ddc_292x292.jpeg",
+            "title": "Chicken",
+            "pizzaBase": ["thick", "thin"],
+            "diameter": ["26 cm", "30 cm", "40 cm"],
+            "price": 19,
+            "category": [1, 3, 2, 6]
+        },
+        {
+            "src": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+            "title": "CheeseBurger-pizza",
+            "pizzaBase": ["thick", "thin"],
+            "diameter": ["26 cm", "30 cm", "40 cm"],
+            "price": 27,
+            "category": [1, 4, 5]
+        },
+        {
+            "src": "https://dodopizza-a.akamaihd.net/static/Img/Products/114b417ba5ff4f058b696cc9c0ef0099_292x292.jpeg",
+            "title": "Cheesy-cheder",
+            "pizzaBase": ["thick", "thin"],
+            "diameter": ["26 cm", "30 cm", "40 cm"],
+            "price": 28,
+            "category": [1, 3, 6]
+        },
+        {
+            "src": "https://dodopizza-a.akamaihd.net/static/Img/Products/9fdb284ebc574e7999017ef42aa1ccfd_292x292.jpeg",
+            "title": "Barbecue",
+            "pizzaBase": ["thick", "thin"],
+            "diameter": ["26 cm", "30 cm", "40 cm"],
+            "price": 34,
+            "category": [1, 2, 5]
+        },
+        {
+            "src": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+            "title": "CheeseBurger-pizza",
+            "pizzaBase": ["thick", "thin"],
+            "diameter": ["26 cm", "30 cm", "40 cm"],
+            "price": 37,
+            "category": [1, 4]
+        }
+    ]
+}

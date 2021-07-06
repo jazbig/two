@@ -1,0 +1,31 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": false },
+  "editor.detectIndentation": false,
+  "editor.glyphMargin": false,
+  "editor.smoothScrolling": true,
+  "editor.minimap.enabled": false,
+  "editor.renderControlCharacters": true,
+  "breadcrumbs.enabled": false,
+  "explorer.confirmDelete": false,
+  "workbench.activityBar.visible": true,
+  "sass.format.enabled": false,
+  "files.associations": {
+    ".eslintrc": "javascript"
+  },
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.printWidth": 80,
+  "prettier.jsxSingleQuote": false,
+  "prettier.tabWidth": 2,
+  "prettier.endOfLine": "lf",
+  "prettier.semi": false,
+  "prettier.arrowParens": "avoid",
+  "eslint.validate": ["javascript", "javascriptreact"],
+  "eslint.alwaysShowStatus": true,
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ]
+}
